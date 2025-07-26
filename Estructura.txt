@@ -1,0 +1,11 @@
+// 📦 Rick and Morty Explorer en Flutter Web (con estructura clara y comentada)
+// Autor: Antonio (Thewollf2003)
+// Fecha: 25/07/2025
+rick_and_morty_explorer/
+│
+├── lib/
+│   └── main.dart         # Archivo principal (el que te entregué)
+│
+├── pubspec.yaml          # Donde gestionarás dependencias
+│
+└── web/                  # Carpeta para Flutter Web (no tocar de momento)
